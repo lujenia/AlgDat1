@@ -9,4 +9,4 @@ Autoren
 Compilieren
 ===========
 
-Zum Compilieren benötigen Sie einen C++-Compiler.
+Zum Compilieren benötigen Sie einen C++-Compiler (muss C++-Standard unterstützen).
